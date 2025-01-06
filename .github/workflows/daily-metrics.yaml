@@ -23,7 +23,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: tuxtof
+          user: elraro
           template: classic
           base: header, activity, community, repositories
           config_timezone: Europe/Madrid
