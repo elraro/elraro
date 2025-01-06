@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm elraro, cybersecurity consultant.
+I'm elraro, Cybersecurity Consultant.
 
 - 🔭 I’m currently working on my [k3s cluster](https://github.com/elraro/home-ops), [xM3U](https://github.com/xM3U/) and my Wallapop crawler bot with AI.
 - 🌱 I’m currently learning PowerShell, Windows Enterprise (AD, WSUS, GPO, ...) and Go.
@@ -11,7 +11,5 @@ I'm elraro, cybersecurity consultant.
 
 https://return-to-libc.com/
 
-## Github Stats  
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=elraro&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
-</div>  
+## Metrics
+![Metrics](https://raw.githubusercontent.com/elraro/elraro/github-metrics/github-metrics.svg)
