@@ -35,7 +35,7 @@
 
 <pre><div class="stdin"><span class="ps1-path">elraro@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>elraro</b> registered=14y, uid=3299, gid=9
   contributed to 18 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
-  followed by <b>75</b> users
+  followed by <b>76</b> users
 </div>
 <div class="stdin"><span class="ps1-path">elraro@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
   <b> 2979</b> commits
@@ -51,7 +51,7 @@
   <b>  351</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">elraro@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 177 repositories - 3.61 GB
--r--  <b>   37</b>  stargazers
+-r--  <b>   38</b>  stargazers
 -r--  <b>    9</b>  forks
 -r--  <b>   50</b>  watchers
 dr-x  <b>   15</b>  packages
