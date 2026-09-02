@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="572" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="751" class="">
   
 
   <defs><style>@font-face {
@@ -51,12 +51,22 @@
   <b>  349</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">elraro@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 184 repositories - 3.90 GB
--r--  <b>    0</b>  stargazers
--r--  <b>    0</b>  forks
--r--  <b>    0</b>  watchers
+-r--  <b>   40</b>  stargazers
+-r--  <b>   11</b>  forks
+-r--  <b>   50</b>  watchers
 dr-x  <b>   16</b>  packages
+dr-x         LICENSE
+-r--         └── GPL-2.0
 </div>
-<div class="stdin"><span class="ps1-path">elraro@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"></div>
+<div class="stdin"><span class="ps1-path">elraro@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>LUA         </b> [#################   ] 81.46%
+<b>PYTHON      </b> [####                ] 15.89%
+<b>JAVA        </b> [#                   ] 1.26 %
+<b>C           </b> [#                   ] 0.44 %
+<b>HTML        </b> [#                   ] 0.43 %
+<b>C++         </b> [#                   ] 0.30 %
+<b>DOCKERFILE  </b> [#                   ] 0.13 %
+<b>PHP         </b> [#                   ] 0.10 %
+</div>
 
 </pre>
 
